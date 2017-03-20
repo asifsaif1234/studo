@@ -11,6 +11,8 @@ gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
 gem 'sass-rails', '~> 5.0'
 # Simple form gem
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
+# Devise gem for user authentication
+gem 'devise', '~> 3.5', '>= 3.5.6'
 # Bootstrap sass file
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 # Use Uglifier as compressor for JavaScript assets
